@@ -1,5 +1,7 @@
 # Stait Watch - ESP32 Firmware
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 Stait Watch is an open-source firmware for the **ESP32-S3** platform, specifically designed for Waveshare ESP32-S3 1.28" Touch Display. It enables real-time interaction with an Android companion app via Bluetooth Low Energy (BLE), managing notifications, weather, and system settings.
 
 ## 📋 Project Overview
