@@ -23,7 +23,7 @@ The interface is completely gesture-based, allowing you to swipe between the wat
 ## 🚀 Companion App & Ecosystem
 This firmware works in tandem with **Stait Watch App**, the official Android companion application developed in Flutter. Stait Watch App handles system-level notification filtering, background connectivity, and weather data pushing.
 
-* **App Repository**: [Insert Link to Stait Hub Repository Here]
+* **App Repository**: [https://github.com/SantoCovato/Stait-Watch-App]
 
 ## 💻 Configuration and Compilation
 This project is developed to be compiled using **Arduino IDE**.
