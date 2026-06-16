@@ -9,7 +9,7 @@ Here is a look at the five main screens of the Stait Watch UI:
 
 | Watchface | Notifications | Weather | Settings | Media Player |
 | :---: | :---: | :---: | :---: | :---: |
-| ![Watchface](images/watchface.png) | ![Notifications](images/notifications.png) | ![Weather](images/weather.png) | ![Settings](images/settings.png) | ![Media](images/media.png) |
+| ![Watchface](images/watchface.png) | ![Notifications](images/notifications.png) | ![Weather](images/weather.png) | ![Settings](images/settings.png) | ![Media](images/mediaplayer.png) |
 
 ## 📋 Project Overview
 The firmware is built using **LovyanGFX** for high-performance graphics and **BLE-Arduino** for connectivity. It features a custom, linguistically neutral protocol using numeric codes, making it easy to adapt to any UI language. 
