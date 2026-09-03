@@ -6,7 +6,7 @@ Stait Watch is an open-source firmware for the **ESP32-S3** platform, specifical
 
 **Current firmware version: v1.1.0**
 
-## 📸 Interface Showcase
+## 📸 Interface
 
 The firmware provides five main screens:
 
