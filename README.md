@@ -62,7 +62,7 @@ The companion app handles:
 
 The current app release is **v1.1.0+2** and targets **Android API 36**. The `+2` value is the Android build number used for Google Play releases.
 
-* **Companion App Repository**: [https://github.com/SantoCovato/Stait-Watch](https://github.com/SantoCovato/Stait-Watch-App)
+* **Companion App Repository**: [https://github.com/SantoCovato/Stait-Watch-App](https://github.com/SantoCovato/Stait-Watch-App)
 
 ## 💻 Configuration and Compilation
 
