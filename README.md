@@ -17,6 +17,8 @@ The firmware provides five main screens:
 * **Media Player**
 * **Incoming calls**
 
+📺 **Watch the full [Stait Watch Overview on YouTube](https://youtu.be/f2whDT7Wny8?si=HUqonpOv-Vmg3o5F) to see it in action!**
+
 ## 📋 Project Overview
 
 This public repository contains the **ESP32 firmware only**. The Android companion application is developed separately with Flutter and its source code is not included in this repository.
